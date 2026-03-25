@@ -1,14 +1,6 @@
 <!-- 🎨 Custom Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Farhad%20Taheri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UI%2FUX%20Designer%20%7C%20Graphic%20Designer&descAlignY=55&descAlign=50"/>
-</p>
-
-
-
-
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Farhad%20Taheri&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
