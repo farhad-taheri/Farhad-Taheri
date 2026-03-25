@@ -72,9 +72,15 @@ I focus on creating experiences that are not only beautiful — but also meaning
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/farhad-tahery">
+    <img src="https://img.shields.io/badge/LinkedIn-gradient-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:farhad.tahery@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gradient-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/farhad-taheri">
+    <img src="https://img.shields.io/badge/GitHub-gradient-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
