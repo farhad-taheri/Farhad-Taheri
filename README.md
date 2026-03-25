@@ -1,6 +1,22 @@
 <!-- 🎨 Custom Banner -->
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/farhad-tahery">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:farhad.tahery@gmail.com?subject=Contact%20from%20GitHub%20Profile&body=Hi%20Farhad,%20I%20saw%20your%20profile%20on%20GitHub...">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/farhad-taheri">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+
+
+
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Farhad%20Taheri&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
