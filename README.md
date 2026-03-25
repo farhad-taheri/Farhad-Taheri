@@ -75,9 +75,9 @@ I focus on creating experiences that are not only beautiful — but also meaning
   <a href="https://www.linkedin.com/in/farhad-tahery">
     <img src="https://img.shields.io/badge/LinkedIn-gradient-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:farhad.tahery@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gradient-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:farhad.tahery@gmail.com?subject=Contact%20from%20GitHub%20Profile&body=Hi%20Farhad,%20I%20found%20you%20on%20GitHub%20and...">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
   <a href="https://github.com/farhad-taheri">
     <img src="https://img.shields.io/badge/GitHub-gradient-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
