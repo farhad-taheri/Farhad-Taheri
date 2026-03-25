@@ -1,16 +1,6 @@
 <!-- 🎨 Custom Banner -->
 
 <p align="center">
-  <a href="https://www.behance.net/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-
-
-
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Farhad%20Taheri&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
