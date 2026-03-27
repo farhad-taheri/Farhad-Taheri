@@ -79,6 +79,10 @@ I focus on creating experiences that are not only beautiful — but also meaning
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/farhad-taheri/farhad-taheri/blob/output/github-contribution-grid-snake.svg)
+
 ## 🌐 Let's Connect
 
 <p align="center">
